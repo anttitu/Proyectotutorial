@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Cabecera fija</title>
+
+        <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<header id="main-header">
+            <nav>
+                <ul>
+                    <img src="img/tecnologia.jpg">
+                    <li><a href="#">tecnologia</a></li>
+                    <li><a href="#">ciencia</a></li>
+                    <article>
+                        <img src="img/descarga.jpg">
+                        <header>
+                            <h1>POR: Azucena Martin</h1>
+                        </header>
+                        <h2>como la bomba atomica nos enseño a medir la sorprendente edad del tiburon de groelandia</h2>
+                        <h2>11 de agosto</h2>
+                    </article>
+                    <img src="img/cine y tv.jpg">
+                    <li><a href="#">cine y tv</a></li>
+                    <img src="img/mmobilidad.webp">
+                    <li><a href="#">movilidad</a></li>
+                </ul>
+            </nav>
+	</header>
+    <header>
+        <nav>
+            <h2>tecnologia</h2>
+            <h2>ciencia</h2>
+            <h2>mobile</h2>
+            <h2>internet</h2>
+            <h2>software</h2>
+            <h2>video juegos</h2>
+            <h2>movilidad</h2>
+            <h2>apple</h2>
+            <h2>hardware</h2>
+            <h2>seguridad</h2>
+        </nav>
+    </header>
+</body>
+</html>
