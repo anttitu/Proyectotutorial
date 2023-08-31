@@ -1,21 +1,24 @@
 .titulo{
-    color: rgb(20, 17, 175);
+    color: #61764B;
 }
 h1{
-    color:rgb(158, 0, 0); 
+    color:#9BA17B; 
  }
+.introdu{
+    color:#61764B;
+}
  p{
-     color:#101156;
+     color:#CFB997;
  }
 h1{
-    background: #279EFF;
-    margin: 20px;
-    padding: 10px;
+    background:#FAD6A5;
+    margin: 50px;
+    padding: 30px;
 }
 p{
-    background: #40F8FF;
-    margin: 20px;
-    padding: 10px;
+    background: #616161;;
+    margin: 50px;
+    padding: 30px;
 }
 .nav_enlace{
     display: inline-block;
@@ -26,16 +29,16 @@ p{
 
 }
 .nav_enlace:hover{
-    background: white;
+    background:#61764B;
 }
 nav{
-    background: #279EFF;
+    background: #CFB997;
     padding: 10px;
     display: flex;
     justify-content: space-around;
 }
 .boton_navtel{
-    background: #D5FFD0;
+    background: #9BA17B;
     color: black;
     padding: 10px 0;
     border: 2px solid #fff;
@@ -43,7 +46,7 @@ nav{
 }
 @media (max-width: 600px){
    nav{
-     background: #279EFF;
+     background: #CFB997;
      padding: 10px;
      display: flex;
      justify-content: space-around;
@@ -52,6 +55,26 @@ nav{
    .boton_navtel{
     display: inline-block;
    }
+}
+body{
+    font-family: 'Handjet', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.contenedor1{
+    display: flex;
+    justify-self: center;
+}
+.contenedor2{
+    display: flex;
+    justify-self: center;
+}
+.contenedor3{
+    display: flex;
+    justify-self: center;
+}
+.contenedor4{
+    display: flex;
+    justify-self: center;
 }
 
 
